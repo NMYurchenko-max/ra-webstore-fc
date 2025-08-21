@@ -1,5 +1,8 @@
 # Страница интернет-магазина
 
+![CI](https://github.com/NMYurchenko-max/ra-webstore-fc/actions/workflows/web.yml/badge.svg)
+
+[deploy](https://nmyurchenko-max.github.io/ra-webstore-fc/)
 
 ## Задание
 Необходимо создать React-компонент ShopItemFunc (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
